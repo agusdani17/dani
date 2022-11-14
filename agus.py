@@ -41,13 +41,13 @@ for xd in range(10000):
 	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
 	ugen2.append(uaku)
 
-	aa='Mozilla/5.0 (Windows NT;'
+	aa='Mozilla/5.0 (Linux; selular'
 	b=random.choice(['6','7','8','9','10','11','12'])
-	c='Xbox One'
+	c=' Redmi Build/'
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-	g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+	g='/537.36 (KHTML, like Gecko) Ucbrowser/'
 	h=random.randrange(73,100)
 	i='0'
 	j=random.randrange(4200,4900)
